@@ -11,6 +11,6 @@ It's still a work in progress, so consider this a living document.
 - ✅ SQL exploration — 5 core queries covering revenue, delivery, and product performance
 - ✅ Data quality investigation into an anomaly I found in the monthly revenue trend
 - ✅ Dashboard 1 — Demand & Revenue Overview
-- 🔄 Dashboard 2 — Logistics & Delivery Performance (reframing in progress)
+- ⏳ Dashboard 2 — Logistics & Delivery Performance
 - ⬜ Dashboard 3 — Business Performance & Profitability
 - ⬜ Forecasting model (Prophet)
