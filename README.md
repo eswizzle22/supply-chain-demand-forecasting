@@ -6,14 +6,18 @@ Late deliveries are a common and costly problem in supply chain operations. Acro
 
 ## Links
 
-Live dashboards: (dashboards/demand_forecasting_dashboards.twbx)
+Live dashboards: [`dashboards/demand_forecasting_dashboards.twbx`](dashboards/demand_forecasting_dashboards.twbx`)
 
 ## Screenshots
+<img width="2398" height="1598" alt="Dashboard 1 - Demand   Revenue Overview" src="https://github.com/user-attachments/assets/d25f78f7-f478-44cf-9960-d1aae7001202" />
 
-![Dashboard 1 — Demand & Revenue Overview](https://public.tableau.com/views/1-DemandRevenueOverview/Dashboard1-DemandRevenueOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard 2 — Logistics & Delivery Performance](https://public.tableau.com/views/2-SupplyChainLogisticsDeliveryPerformance/Dashboard2-LogisticsDelivery?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-![Dashboard 3 — Business Performance & Profitability](https://public.tableau.com/views/3-BusinessPerformanceProfitability/Dashboard3-BusinessPerformanceProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard 4 — Demand Forecasting Model](https://public.tableau.com/views/4-DemandForecastingModel/Dashboard4-DemandForecasting?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="2398" height="1598" alt="Dashboard 2 - Logistics   Delivery" src="https://github.com/user-attachments/assets/201615dc-904c-44c8-b1a3-d4eb5a566492" />
+
+<img width="2398" height="1598" alt="Dashboard 3 - Business Performance   Profitability" src="https://github.com/user-attachments/assets/05faa446-4006-4768-8434-bff4217e3e84" />
+
+<img width="2398" height="1598" alt="Dashboard 4 - Demand Forecasting" src="https://github.com/user-attachments/assets/1b6d40a7-5cec-4a31-ac70-10f8a80f7a0b" />
+
+
 
 ## Features
 
