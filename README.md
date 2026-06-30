@@ -6,7 +6,7 @@ Late deliveries are a common and costly problem in supply chain operations. Acro
 
 ## Links
 
-Live dashboards: [`dashboards/demand_forecasting_dashboards.twbx`](dashboards/demand_forecasting_dashboards.twbx`)
+Live dashboards: [`dashboards/demand_forecasting_workbook.twbx`](dashboards/demand_forecasting_dashboards.twbx)
 
 ## Screenshots
 <img width="2398" height="1598" alt="Dashboard 1 - Demand   Revenue Overview" src="https://github.com/user-attachments/assets/d25f78f7-f478-44cf-9960-d1aae7001202" />
