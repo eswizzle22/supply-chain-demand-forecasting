@@ -7,6 +7,7 @@ Late deliveries are a common and costly problem in supply chain operations. Acro
 ## Links
 
 Live dashboards: [`dashboards/demand_forecasting_workbook.twbx`](dashboards/demand_forecasting_dashboards.twbx)
+
 My Tableau Public Vizzes: https://public.tableau.com/app/profile/ella.sajor/vizzes 
 
 ## Screenshots
